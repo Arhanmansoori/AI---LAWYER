@@ -1,0 +1,70 @@
+Introducing AI Lawyer & Judge – An Indian Legal System AI Assistant**
+This project uses Google Gemini 2.5 Flash and Python to analyze legal scenarios **strictly according to Indian laws** and generate **precise legal consequences in JSON format**.
+
+No more vague legal answers — get **exact punishments, severity levels, and compensation details** instantly!
+
+###🔹 Features**
+
+✅ Analyzes legal cases as per **Indian Penal Code (IPC)**
+✅ Returns structured **JSON output** for easy integration into apps
+✅ Identifies punishment type: death penalty, life imprisonment, jail, fine, etc.
+✅ Calculates severity: Severe / Moderate / Mild
+✅ Generates compensation amounts where applicable
+✅ Built using **Python + Gemini AI API**
+
+---
+
+### **📌 Project Links**
+
+🔗 **GitHub Repository:** [https://github.com/Arhanmansoori/AI---LAWYER](https://github.com/Arhanmansoori/AI---LAWYER)
+📸 **Instagram:** [https://www.instagram.com/arhan.mansoori.9484/](https://www.instagram.com/arhan.mansoori.9484/)
+💼 **LinkedIn:** [https://www.linkedin.com/in/md-arhan-mansoori-8983791a8/](https://www.linkedin.com/in/md-arhan-mansoori-8983791a8/)
+
+---
+
+### **💻 Tech Stack**
+
+* Python 🐍
+* Google Gemini 2.5 Flash API 🤖
+* dotenv for secure API key handling 🔑
+* requests for API calls 🌐
+* JSON formatting 📦
+
+---
+
+### **📺 About This Video**
+
+In this tutorial, I’ll walk you through:
+1️⃣ Setting up your Gemini API key securely with `.env`
+2️⃣ Writing the Python code to call the Gemini API
+3️⃣ Structuring the AI’s output in **pure JSON** without extra text
+4️⃣ Testing the AI with real-world Indian legal cases
+5️⃣ How you can integrate this into **legal tech apps**
+
+---
+
+💡 **Perfect for:**
+
+* Law students & researchers 📚
+* LegalTech startups 🚀
+* AI/ML developers 🤖
+* Python enthusiasts 🐍
+
+---
+
+### **📢 Follow Me for More AI & Dev Content**
+
+📸 Instagram: [@arhan.mansoori.9484](https://www.instagram.com/arhan.mansoori.9484/)
+💼 LinkedIn: [Md Arhan Mansoori](https://www.linkedin.com/in/md-arhan-mansoori-8983791a8/)
+💻 GitHub: [Arhanmansoori](https://github.com/Arhanmansoori)
+
+---
+
+## **🔥 Hashtags**
+
+\#AILawyer #AIJudge #IndianLaw #LegalTech #GeminiAI #PythonAI #IndianPenalCode #MachineLearning #ArtificialIntelligence #AIForLaw #GoogleGemini #OpenAIAlternative #AIinLaw #LegalAI #TechForLaw #ArhanMansoori #Gemini2\_5 #PythonProjects #IndianLawSystem #AIJustice
+
+---
+
+If you want, I can also make you **a professional YouTube thumbnail idea** with ⚖ and 🤖 elements so it catches attention.
+Do you want me to create that?
